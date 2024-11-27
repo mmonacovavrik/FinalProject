@@ -5,9 +5,9 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Final Project"
+  title: "MUSA 550"
   page-footer:
-    left: "marcim@upenn.edu"
+    left: "delmelle@gmail.com"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
